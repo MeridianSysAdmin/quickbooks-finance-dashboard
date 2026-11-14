@@ -1,0 +1,1617 @@
+{
+  "QueryResponse": {
+    "Customer": [
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "370 Easy St.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94482",
+          "Lat": "37.4031672",
+          "Long": "-122.0642815"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "370 Easy St.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94482",
+          "Lat": "37.4031672",
+          "Long": "-122.0642815"
+        },
+        "Job": true,
+        "BillWithParent": false,
+        "ParentRef": {
+          "value": "7"
+        },
+        "Level": 1,
+        "Balance": 477.5,
+        "BalanceWithJobs": 477.5,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "8",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:00:01-07:00",
+          "LastUpdatedTime": "2026-10-16T13:15:36-07:00"
+        },
+        "GivenName": "Sasha",
+        "FamilyName": "Tillou",
+        "FullyQualifiedName": "Freeman Sporting Goods:0969 Ocean View Road",
+        "CompanyName": "Freeman Sporting Goods",
+        "DisplayName": "0969 Ocean View Road",
+        "PrintOnCheckName": "Freeman Sporting Goods",
+        "Active": true,
+        "V4IDPseudonym": "0020984aba27d4ae044279898ce62af108af00",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(415) 555-9933"
+        },
+        "Mobile": {
+          "FreeFormNumber": "(973) 555-8849"
+        },
+        "Fax": {
+          "FreeFormNumber": "(520) 555-7894"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Sporting_goods@intuit.com"
+        },
+        "WebAddr": {
+          "URI": "http://sportinggoods.intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "370 Easy St.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94482",
+          "Lat": "37.4031672",
+          "Long": "-122.0642815"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "370 Easy St.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94482",
+          "Lat": "37.4031672",
+          "Long": "-122.0642815"
+        },
+        "Job": true,
+        "BillWithParent": false,
+        "ParentRef": {
+          "value": "7"
+        },
+        "Level": 1,
+        "Balance": 85.0,
+        "BalanceWithJobs": 85.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "9",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:01:00-07:00",
+          "LastUpdatedTime": "2026-10-15T13:23:52-07:00"
+        },
+        "GivenName": "Amelia",
+        "FullyQualifiedName": "Freeman Sporting Goods:55 Twin Lane",
+        "CompanyName": "Freeman Sporting Goods",
+        "DisplayName": "55 Twin Lane",
+        "PrintOnCheckName": "Freeman Sporting Goods",
+        "Active": true,
+        "V4IDPseudonym": "0020980867f90aaa83412f89afad9a94d3cc78",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-0987"
+        },
+        "Mobile": {
+          "FreeFormNumber": "(973) 555-8849"
+        },
+        "Fax": {
+          "FreeFormNumber": "(520) 555-7894"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Sporting_goods@intuit.com"
+        },
+        "WebAddr": {
+          "URI": "http://sportinggoods.intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": true,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "4581 Finch St.",
+          "City": "Bayshore",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94326",
+          "Lat": "INVALID",
+          "Long": "INVALID"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "4581 Finch St.",
+          "City": "Bayshore",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94326",
+          "Lat": "INVALID",
+          "Long": "INVALID"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 239.0,
+        "BalanceWithJobs": 239.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "1",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T16:48:43-07:00",
+          "LastUpdatedTime": "2026-10-15T13:39:32-07:00"
+        },
+        "GivenName": "Amy",
+        "FamilyName": "Lauterbach",
+        "FullyQualifiedName": "Amy's Bird Sanctuary",
+        "CompanyName": "Amy's Bird Sanctuary",
+        "DisplayName": "Amy's Bird Sanctuary",
+        "PrintOnCheckName": "Amy's Bird Sanctuary",
+        "Active": true,
+        "V4IDPseudonym": "0020982a534c5ac67448eeb2e33ae167301f39",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-3311"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Birds@Intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "19 Main St.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94303",
+          "Lat": "37.445013",
+          "Long": "-122.1391443"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "19 Main St.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94303",
+          "Lat": "37.445013",
+          "Long": "-122.1391443"
+        },
+        "Job": true,
+        "BillWithParent": false,
+        "ParentRef": {
+          "value": "22"
+        },
+        "Level": 1,
+        "Balance": 274.5,
+        "BalanceWithJobs": 274.5,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "23",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:22:41-07:00",
+          "LastUpdatedTime": "2026-10-14T11:16:52-07:00"
+        },
+        "GivenName": "Shara",
+        "FamilyName": "Barnett",
+        "FullyQualifiedName": "Shara Barnett:Barnett Design",
+        "CompanyName": "Barnett Design",
+        "DisplayName": "Barnett Design",
+        "PrintOnCheckName": "Barnett Design",
+        "Active": true,
+        "V4IDPseudonym": "0020988dfde507ff574f138c76530610c4f6e8",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 557-1289"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Design@intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "12 Ocean Dr.",
+          "City": "Half Moon Bay",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94213",
+          "Lat": "37.4307072",
+          "Long": "-122.4295234"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 85.0,
+        "BalanceWithJobs": 85.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "2",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T16:49:28-07:00",
+          "LastUpdatedTime": "2026-10-15T12:56:01-07:00"
+        },
+        "GivenName": "Bill",
+        "FamilyName": "Lucchini",
+        "FullyQualifiedName": "Bill's Windsurf Shop",
+        "CompanyName": "Bill's Windsurf Shop",
+        "DisplayName": "Bill's Windsurf Shop",
+        "PrintOnCheckName": "Bill's Windsurf Shop",
+        "Active": true,
+        "V4IDPseudonym": "0020989f2053b9dccd4e9bb0e35fb7788b3fae",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(415) 444-6538"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Surf@Intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "65 Ocean Dr.",
+          "City": "Half Moon Bay",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94213",
+          "Lat": "37.4300318",
+          "Long": "-122.4336537"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 0.0,
+        "BalanceWithJobs": 0.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "3",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T16:51:22-07:00",
+          "LastUpdatedTime": "2026-10-16T12:59:21-07:00"
+        },
+        "GivenName": "Grace",
+        "FamilyName": "Pariente",
+        "FullyQualifiedName": "Cool Cars",
+        "CompanyName": "Cool Cars",
+        "DisplayName": "Cool Cars",
+        "PrintOnCheckName": "Cool Cars",
+        "Active": true,
+        "V4IDPseudonym": "0020981bb48b40c1b545e090ce49e4b1959e18",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(415) 555-9933"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Cool_Cars@intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "321 Channing",
+          "City": "Palo Alto",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94303",
+          "Lat": "37.443231",
+          "Long": "-122.1561846"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 0.0,
+        "BalanceWithJobs": 0.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "4",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T16:52:08-07:00",
+          "LastUpdatedTime": "2026-10-08T16:52:08-07:00"
+        },
+        "GivenName": "Diego",
+        "FamilyName": "Rodriguez",
+        "FullyQualifiedName": "Diego Rodriguez",
+        "DisplayName": "Diego Rodriguez",
+        "PrintOnCheckName": "Diego Rodriguez",
+        "Active": true,
+        "V4IDPseudonym": "0020986df49d80f7984da0bba29173c5da09b7",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-4477"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Diego@Rodriguez.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": true,
+        "BillAddr": {
+          "Id": "3",
+          "Line1": "25 Court St.",
+          "City": "Tucson",
+          "CountrySubDivisionCode": "AZ",
+          "PostalCode": "85719",
+          "Lat": "32.2841116",
+          "Long": "-110.9744298"
+        },
+        "ShipAddr": {
+          "Id": "6",
+          "Line1": "25 Court St.",
+          "City": "Tucson",
+          "CountrySubDivisionCode": "AZ",
+          "PostalCode": "85719",
+          "Lat": "32.2841116",
+          "Long": "-110.9744298"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 0.0,
+        "BalanceWithJobs": 0.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "5",
+        "SyncToken": "1",
+        "MetaData": {
+          "CreateTime": "2026-10-08T16:54:59-07:00",
+          "LastUpdatedTime": "2026-10-15T13:28:29-07:00"
+        },
+        "GivenName": "Peter",
+        "FamilyName": "Dukes",
+        "FullyQualifiedName": "Dukes Basketball Camp",
+        "CompanyName": "Dukes Basketball Camp",
+        "DisplayName": "Dukes Basketball Camp",
+        "PrintOnCheckName": "Dukes Basketball Camp",
+        "Active": true,
+        "V4IDPseudonym": "002098610b66f14db242d28687b691bac9f57f",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(520) 420-5638"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Dukes_bball@intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 0.0,
+        "BalanceWithJobs": 0.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "6",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T16:55:21-07:00",
+          "LastUpdatedTime": "2026-10-08T16:55:21-07:00"
+        },
+        "GivenName": "Dylan",
+        "FamilyName": "Sollfrank",
+        "FullyQualifiedName": "Dylan Sollfrank",
+        "DisplayName": "Dylan Sollfrank",
+        "PrintOnCheckName": "Dylan Sollfrank",
+        "Active": true,
+        "V4IDPseudonym": "002098f2374ac2cb1a47b681195ea9bee26a37",
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "370 Easy St.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94482",
+          "Lat": "37.4031672",
+          "Long": "-122.0642815"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "370 Easy St.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94482",
+          "Lat": "37.4031672",
+          "Long": "-122.0642815"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 0.0,
+        "BalanceWithJobs": 562.5,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "7",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T16:57:10-07:00",
+          "LastUpdatedTime": "2026-10-16T13:15:36-07:00"
+        },
+        "GivenName": "Kirby",
+        "FamilyName": "Freeman",
+        "FullyQualifiedName": "Freeman Sporting Goods",
+        "CompanyName": "Freeman Sporting Goods",
+        "DisplayName": "Freeman Sporting Goods",
+        "PrintOnCheckName": "Freeman Sporting Goods",
+        "Active": true,
+        "V4IDPseudonym": "002098946023cefd2b40df9525fae342fd81c1",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-0987"
+        },
+        "Mobile": {
+          "FreeFormNumber": "(973) 555-8849"
+        },
+        "Fax": {
+          "FreeFormNumber": "(520) 555-7894"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Sporting_goods@intuit.com"
+        },
+        "WebAddr": {
+          "URI": "http://sportinggoods.intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "1987 Main St.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94303",
+          "Lat": "37.445013",
+          "Long": "-122.1391443"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "1987 Main St.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94303",
+          "Lat": "37.445013",
+          "Long": "-122.1391443"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 629.1,
+        "BalanceWithJobs": 629.1,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "10",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:02:22-07:00",
+          "LastUpdatedTime": "2026-10-15T13:41:59-07:00"
+        },
+        "GivenName": "Geeta",
+        "FamilyName": "Kalapatapu",
+        "FullyQualifiedName": "Geeta Kalapatapu",
+        "DisplayName": "Geeta Kalapatapu",
+        "PrintOnCheckName": "Geeta Kalapatapu",
+        "Active": true,
+        "V4IDPseudonym": "00209834c41fe17573460cb3a92552541d8c86",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-0022"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Geeta@Kalapatapu.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "1045 Main St.",
+          "City": "Half Moon Bay",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94213",
+          "Lat": "37.4559621",
+          "Long": "-122.429939"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "1045 Main St.",
+          "City": "Half Moon Bay",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94213",
+          "Lat": "37.4559621",
+          "Long": "-122.429939"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 0.0,
+        "BalanceWithJobs": 0.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "11",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:04:02-07:00",
+          "LastUpdatedTime": "2026-10-08T17:04:02-07:00"
+        },
+        "GivenName": "Lisa",
+        "FamilyName": "Gevelber",
+        "FullyQualifiedName": "Gevelber Photography",
+        "CompanyName": "Gevelber Photography",
+        "DisplayName": "Gevelber Photography",
+        "PrintOnCheckName": "Gevelber Photography",
+        "Active": true,
+        "V4IDPseudonym": "00209847ec8cc29c654f6aad3dee10d0e16be9",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(415) 222-4345"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Photography@intuit.com"
+        },
+        "WebAddr": {
+          "URI": "http://gevelberphotography.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "12 Willow Rd.",
+          "City": "Menlo Park",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94305",
+          "Lat": "37.4495308",
+          "Long": "-122.1726923"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "12 Willow Rd.",
+          "City": "Menlo Park",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94305",
+          "Lat": "37.4495308",
+          "Long": "-122.1726923"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 81.0,
+        "BalanceWithJobs": 81.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "12",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:05:09-07:00",
+          "LastUpdatedTime": "2026-10-15T13:25:43-07:00"
+        },
+        "GivenName": "Jeff",
+        "FamilyName": "Chin",
+        "FullyQualifiedName": "Jeff's Jalopies",
+        "CompanyName": "Jeff's Jalopies",
+        "DisplayName": "Jeff's Jalopies",
+        "PrintOnCheckName": "Jeff's Jalopies",
+        "Active": true,
+        "V4IDPseudonym": "0020981e975914d95d4f16bab1bd1b4572cf8f",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-8989"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Jalopies@intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "85 Pine St.",
+          "City": "Menlo Park",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94304",
+          "Lat": "37.4451342",
+          "Long": "-122.1409626"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "85 Pine St.",
+          "City": "Menlo Park",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94304",
+          "Lat": "37.4451342",
+          "Long": "-122.1409626"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 450.0,
+        "BalanceWithJobs": 450.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "13",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:06:42-07:00",
+          "LastUpdatedTime": "2026-10-14T11:06:49-07:00"
+        },
+        "GivenName": "John",
+        "FamilyName": "Melton",
+        "FullyQualifiedName": "John Melton",
+        "DisplayName": "John Melton",
+        "PrintOnCheckName": "John Melton",
+        "Active": true,
+        "V4IDPseudonym": "0020982593fd1b39d146449808885afcfbcc28",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-5879"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "John@Melton.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "45 First St.",
+          "City": "Menlo Park",
+          "Country": "USA",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94304",
+          "Lat": "37.4585825",
+          "Long": "-122.1352789"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "45 First St.",
+          "City": "Menlo Park",
+          "Country": "USA",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94304",
+          "Lat": "37.4585825",
+          "Long": "-122.1352789"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 0.0,
+        "BalanceWithJobs": 0.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "14",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:08:02-07:00",
+          "LastUpdatedTime": "2026-10-08T17:08:02-07:00"
+        },
+        "GivenName": "Kate",
+        "FamilyName": "Whelan",
+        "FullyQualifiedName": "Kate Whelan",
+        "DisplayName": "Kate Whelan",
+        "PrintOnCheckName": "Kate Whelan",
+        "Active": true,
+        "V4IDPseudonym": "00209816737967facb41ccad99ecfe88e6c385",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 554-8822"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Kate@Whelan.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "789 Sugar Lane",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94303",
+          "Lat": "37.4530553",
+          "Long": "-122.1178261"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 75.0,
+        "BalanceWithJobs": 75.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "16",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:11:27-07:00",
+          "LastUpdatedTime": "2026-10-14T15:18:18-07:00"
+        },
+        "GivenName": "Kathy",
+        "FamilyName": "Kuplis",
+        "FullyQualifiedName": "Kookies by Kathy",
+        "CompanyName": "Kookies by Kathy",
+        "DisplayName": "Kookies by Kathy",
+        "PrintOnCheckName": "Kookies by Kathy",
+        "Active": true,
+        "V4IDPseudonym": "002098b25cce851886445da8210621927d402f",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-7896"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "qbwebsamplecompany@yahoo.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "36 Willow Rd",
+          "City": "Menlo Park",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94304",
+          "Lat": "37.450412",
+          "Long": "-122.170593"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "36 Willow Rd",
+          "City": "Menlo Park",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94304",
+          "Lat": "37.450412",
+          "Long": "-122.170593"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 314.28,
+        "BalanceWithJobs": 314.28,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "17",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:12:16-07:00",
+          "LastUpdatedTime": "2026-10-16T12:57:24-07:00"
+        },
+        "GivenName": "Mark",
+        "FamilyName": "Cho",
+        "FullyQualifiedName": "Mark Cho",
+        "DisplayName": "Mark Cho",
+        "PrintOnCheckName": "Mark Cho",
+        "Active": true,
+        "V4IDPseudonym": "002098cd495f081b474b90b23fc7f19331c723",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 554-1479"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Mark@Cho.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "900 Main St.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94303",
+          "Lat": "37.445013",
+          "Long": "-122.1391443"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "38921 S. Boise Ave",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94304",
+          "Lat": "37.3989376",
+          "Long": "-122.1443935"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 954.75,
+        "BalanceWithJobs": 954.75,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "18",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:13:37-07:00",
+          "LastUpdatedTime": "2026-10-14T11:43:20-07:00"
+        },
+        "GivenName": "Kathy",
+        "FamilyName": "Paulsen",
+        "FullyQualifiedName": "Paulsen Medical Supplies",
+        "CompanyName": "Paulsen Medical Supplies",
+        "DisplayName": "Paulsen Medical Supplies",
+        "PrintOnCheckName": "Paulsen Medical Supplies",
+        "Active": true,
+        "V4IDPseudonym": "0020981c0c05b0ac414a479b0ad5308a36cd54",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 557-4569"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Medical@intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "3",
+          "Line1": "350 Mountain View Dr.",
+          "City": "South Orange",
+          "CountrySubDivisionCode": "NJ",
+          "PostalCode": "07079",
+          "Lat": "40.7633073",
+          "Long": "-74.2426072"
+        },
+        "ShipAddr": {
+          "Id": "6",
+          "Line1": "350 Mountain View Dr.",
+          "City": "South Orange",
+          "CountrySubDivisionCode": "NJ",
+          "PostalCode": "07079",
+          "Lat": "40.7633073",
+          "Long": "-74.2426072"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 0.0,
+        "BalanceWithJobs": 0.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "15",
+        "SyncToken": "1",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:10:24-07:00",
+          "LastUpdatedTime": "2026-10-14T15:30:27-07:00"
+        },
+        "GivenName": "Karen",
+        "FamilyName": "Pye",
+        "FullyQualifiedName": "Pye's Cakes",
+        "CompanyName": "Pye's Cakes",
+        "DisplayName": "Pye's Cakes",
+        "PrintOnCheckName": "Pye's Cakes",
+        "Active": true,
+        "V4IDPseudonym": "002098830e35c2f39b466badca7099d6da6a78",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(973) 555-4652"
+        },
+        "Mobile": {
+          "FreeFormNumber": "(973) 555-2234"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "pyescakes@intuit.com"
+        },
+        "WebAddr": {
+          "URI": "http://www.pyescakes.intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "753 Cedar St.",
+          "City": "Bayshore",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94326",
+          "Lat": "37.7077016",
+          "Long": "-122.4273232"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "753 Cedar St.",
+          "City": "Bayshore",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94326",
+          "Lat": "37.7077016",
+          "Long": "-122.4273232"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 0.0,
+        "BalanceWithJobs": 0.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "19",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:14:24-07:00",
+          "LastUpdatedTime": "2026-10-08T17:14:24-07:00"
+        },
+        "GivenName": "Jeff",
+        "FamilyName": "Rago",
+        "FullyQualifiedName": "Rago Travel Agency",
+        "CompanyName": "Rago Travel Agency",
+        "DisplayName": "Rago Travel Agency",
+        "PrintOnCheckName": "Rago Travel Agency",
+        "Active": true,
+        "V4IDPseudonym": "002098a3d754a6ef644c4bbea861927580b454",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-1596"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Rago_Travel@intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "500 Red Rock Rd.",
+          "City": "Bayshore",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94326",
+          "Lat": "INVALID",
+          "Long": "INVALID"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "500 Red Rock Rd.",
+          "City": "Bayshore",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94326",
+          "Lat": "INVALID",
+          "Long": "INVALID"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 226.0,
+        "BalanceWithJobs": 226.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "20",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:15:14-07:00",
+          "LastUpdatedTime": "2026-10-15T12:44:45-07:00"
+        },
+        "GivenName": "Stephanie",
+        "FamilyName": "Martini",
+        "FullyQualifiedName": "Red Rock Diner",
+        "CompanyName": "Red Rock Diner",
+        "DisplayName": "Red Rock Diner",
+        "PrintOnCheckName": "Red Rock Diner",
+        "Active": true,
+        "V4IDPseudonym": "002098276c949f1e7741278863310fa1620435",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-4973"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "qbwebsamplecompany@yahoo.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "847 California Ave.",
+          "City": "San Jose",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "95021",
+          "Lat": "37.3313585",
+          "Long": "-121.911372"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "847 California Ave.",
+          "City": "San Jose",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "95021",
+          "Lat": "37.3313585",
+          "Long": "-121.911372"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 78.6,
+        "BalanceWithJobs": 78.6,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "21",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:17:21-07:00",
+          "LastUpdatedTime": "2026-10-15T13:45:12-07:00"
+        },
+        "GivenName": "Rondonuwu",
+        "MiddleName": "Fruit",
+        "FamilyName": "and Vegi",
+        "FullyQualifiedName": "Rondonuwu Fruit and Vegi",
+        "DisplayName": "Rondonuwu Fruit and Vegi",
+        "PrintOnCheckName": "Rondonuwu Fruit and Vegi",
+        "Active": true,
+        "V4IDPseudonym": "002098e3a12c4eda2341d2a0a9dbef3818d198",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-2645"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Tony@Rondonuwu.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "77 University",
+          "City": "Palo Alto",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94303",
+          "Lat": "37.4431445",
+          "Long": "-122.164443"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "77 University",
+          "City": "Palo Alto",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94303",
+          "Lat": "37.4431445",
+          "Long": "-122.164443"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 0.0,
+        "BalanceWithJobs": 274.5,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "22",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:18:34-07:00",
+          "LastUpdatedTime": "2026-10-14T11:16:52-07:00"
+        },
+        "GivenName": "Shara",
+        "FamilyName": "Barnett",
+        "FullyQualifiedName": "Shara Barnett",
+        "DisplayName": "Shara Barnett",
+        "PrintOnCheckName": "Shara Barnett",
+        "Active": true,
+        "V4IDPseudonym": "002098db99b79ec6f34f47b6f6479a75c6f01e",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-4563"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Shara@Barnett.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "5647 Cypress Hill Ave.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94303",
+          "Lat": "37.4238562",
+          "Long": "-122.1141681"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "5647 Cypress Hill Ave.",
+          "City": "Middlefield",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94303",
+          "Lat": "37.4238562",
+          "Long": "-122.1141681"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 362.07,
+        "BalanceWithJobs": 362.07,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "24",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:23:24-07:00",
+          "LastUpdatedTime": "2026-10-16T13:16:17-07:00"
+        },
+        "GivenName": "Russ",
+        "FamilyName": "Sonnenschein",
+        "FullyQualifiedName": "Sonnenschein Family Store",
+        "CompanyName": "Sonnenschein Family Store",
+        "DisplayName": "Sonnenschein Family Store",
+        "PrintOnCheckName": "Sonnenschein Family Store",
+        "Active": true,
+        "V4IDPseudonym": "002098bd19857c4b4b40c8ba7100b5ab23faba",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 557-8463"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Familiystore@intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "5",
+          "Line1": "898 Elm St.",
+          "City": "Maplewood",
+          "CountrySubDivisionCode": "NJ",
+          "PostalCode": "07040",
+          "Lat": "40.7312816",
+          "Long": "-74.2652908"
+        },
+        "ShipAddr": {
+          "Id": "8",
+          "Line1": "898 Elm St.",
+          "City": "Maplewood",
+          "CountrySubDivisionCode": "NJ",
+          "PostalCode": "07040",
+          "Lat": "40.7312816",
+          "Long": "-74.2652908"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 160.0,
+        "BalanceWithJobs": 160.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "25",
+        "SyncToken": "2",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:24:26-07:00",
+          "LastUpdatedTime": "2026-10-16T12:52:44-07:00"
+        },
+        "GivenName": "Katsuyuki",
+        "FamilyName": "Yanagawa",
+        "FullyQualifiedName": "Sushi by Katsuyuki",
+        "CompanyName": "Sushi by Katsuyuki",
+        "DisplayName": "Sushi by Katsuyuki",
+        "PrintOnCheckName": "Sushi by Katsuyuki",
+        "Active": true,
+        "V4IDPseudonym": "0020982106fae4d3374164bcfa25979febd5d9",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(505) 570-0147"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Sushi@intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "78 First St.",
+          "City": "Monlo Park",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94304",
+          "Lat": "37.4585825",
+          "Long": "-122.1352789"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "78 First St.",
+          "City": "Monlo Park",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94304",
+          "Lat": "37.4585825",
+          "Long": "-122.1352789"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 414.72,
+        "BalanceWithJobs": 414.72,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "26",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:25:08-07:00",
+          "LastUpdatedTime": "2026-10-15T13:36:31-07:00"
+        },
+        "GivenName": "Travis",
+        "FamilyName": "Waldron",
+        "FullyQualifiedName": "Travis Waldron",
+        "DisplayName": "Travis Waldron",
+        "PrintOnCheckName": "Travis Waldron",
+        "Active": true,
+        "V4IDPseudonym": "002098de32a5128768498ab54a93b8780213d6",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 557-9977"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Travis@Waldron.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "202 Main St.",
+          "City": "Tucson",
+          "CountrySubDivisionCode": "AZ",
+          "PostalCode": "85704",
+          "Lat": "32.2242351",
+          "Long": "-110.9758242"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "202 Main St.",
+          "City": "Tucson",
+          "CountrySubDivisionCode": "AZ",
+          "PostalCode": "85704",
+          "Lat": "32.2242351",
+          "Long": "-110.9758242"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 0.0,
+        "BalanceWithJobs": 0.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "27",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:26:07-07:00",
+          "LastUpdatedTime": "2026-10-08T17:26:07-07:00"
+        },
+        "GivenName": "Dan",
+        "FamilyName": "Wilks",
+        "FullyQualifiedName": "Video Games by Dan",
+        "CompanyName": "Video Games by Dan",
+        "DisplayName": "Video Games by Dan",
+        "PrintOnCheckName": "Video Games by Dan",
+        "Active": true,
+        "V4IDPseudonym": "0020987963099d7f7e48e9bfe4c02bc8ae6d55",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-3456"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Videogames@intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "135 Broadway",
+          "City": "Menlo Park",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94304",
+          "Lat": "37.4846734",
+          "Long": "-122.1989488"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "135 Broadway",
+          "City": "Menlo Park",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94304",
+          "Lat": "37.4846734",
+          "Long": "-122.1989488"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 0.0,
+        "BalanceWithJobs": 0.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "28",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:28:21-07:00",
+          "LastUpdatedTime": "2026-10-08T17:28:21-07:00"
+        },
+        "GivenName": "Whitney",
+        "FamilyName": "Brewer",
+        "FullyQualifiedName": "Wedding Planning by Whitney",
+        "CompanyName": "Wedding Planning by Whitney",
+        "DisplayName": "Wedding Planning by Whitney",
+        "PrintOnCheckName": "Wedding Planning by Whitney",
+        "Active": true,
+        "V4IDPseudonym": "002098ed709b16915640709976db573cb54d2c",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 557-2473"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Dream_Wedding@intuit.com"
+        },
+        "WebAddr": {
+          "URI": "http://www.dreamwedding.intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      },
+      {
+        "Taxable": false,
+        "BillAddr": {
+          "Id": "1",
+          "Line1": "45612 Main St.",
+          "City": "Bayshore",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94326",
+          "Lat": "45.256574",
+          "Long": "-66.0943698"
+        },
+        "ShipAddr": {
+          "Id": "4",
+          "Line1": "45612 Main St.",
+          "City": "Bayshore",
+          "CountrySubDivisionCode": "CA",
+          "PostalCode": "94326",
+          "Lat": "45.256574",
+          "Long": "-66.0943698"
+        },
+        "Job": false,
+        "BillWithParent": false,
+        "Balance": 375.0,
+        "BalanceWithJobs": 375.0,
+        "CurrencyRef": {
+          "value": "USD",
+          "name": "United States Dollar"
+        },
+        "PreferredDeliveryMethod": "Print",
+        "IsProject": false,
+        "domain": "QBO",
+        "sparse": false,
+        "Id": "29",
+        "SyncToken": "0",
+        "MetaData": {
+          "CreateTime": "2026-10-08T17:29:04-07:00",
+          "LastUpdatedTime": "2026-10-14T11:09:08-07:00"
+        },
+        "GivenName": "Nicola",
+        "FamilyName": "Weiskopf",
+        "FullyQualifiedName": "Weiskopf Consulting",
+        "CompanyName": "Weiskopf Consulting",
+        "DisplayName": "Weiskopf Consulting",
+        "PrintOnCheckName": "Weiskopf Consulting",
+        "Active": true,
+        "V4IDPseudonym": "002098893feaebe1db439bb450c48ed31afb18",
+        "PrimaryPhone": {
+          "FreeFormNumber": "(650) 555-1423"
+        },
+        "PrimaryEmailAddr": {
+          "Address": "Consulting@intuit.com"
+        },
+        "DefaultTaxCodeRef": {
+          "value": "2"
+        }
+      }
+    ],
+    "startPosition": 1,
+    "maxResults": 29
+  },
+  "time": "2026-11-14T07:59:16.420-08:00"
+}
