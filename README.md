@@ -2,7 +2,7 @@
 
 Pulls customers, invoices and the chart of accounts from the QuickBooks Online API, loads them into SQL Server, proves nothing was lost or changed with reconciliation checks, and reports it in Power BI.
 
-![Finance dashboard](docs/dashboard.png)
+![Finance dashboard](docs/Quickbooks_report.png)
 
 ## How it works
 
